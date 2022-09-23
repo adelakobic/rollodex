@@ -41,10 +41,15 @@ Video demo of how the Rollodex is intended to work
 ![Video of Rollodex.](./assets/12-sql-homework-video-thumbnail.png)
 
 ## Problems encountered 🤯
-* geting 
+* geting the schema to connect - there was an extra comma at the end of a block - fixed 23/9/22
+* 
 
 ## Changes made to the code 𝌡
-* the 
+* schema created 21/9/22
+* seeds created and slowly inputted 222/9/22
+* connection js begun
+* index.js created for the node server part - starting to input node questions
+* 
 
 ## Link to the Screencastify video 📺
 ![Rollodex Screencastify video link](https://)

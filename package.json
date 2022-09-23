@@ -1,0 +1,25 @@
+{
+  "name": "rollodex",
+  "version": "1.0.0",
+  "description": "MySQL initiated node app that allows a Manager to view their employees.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelakobic/rollodex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelakobic/rollodex/issues"
+  },
+  "homepage": "https://github.com/adelakobic/rollodex#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3"
+  }
+}
