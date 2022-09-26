@@ -26,6 +26,7 @@ function init() {
             'Update Employee Manager'],
             default: 'Move arrow up and down for more choices.'
         },
+        // use switch cases for if
         {  //Add an employee
             type:'list',
             name:'role',
